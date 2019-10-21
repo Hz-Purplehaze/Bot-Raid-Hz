@@ -1,5 +1,5 @@
 # Bot-Raid-Hz
-Discord : [Hz] Purple Haze#9605
+Discord : 𝑷𝒖𝒓𝒑𝒍𝒆 𝑯𝒂𝒛𝒆「𝓓𝓐ֆ#0001
 
 prefix de base : ,
 
