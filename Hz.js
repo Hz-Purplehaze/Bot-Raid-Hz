@@ -95,7 +95,7 @@ bot.on('message', message => {
  
         setInterval(function () {
             message.guild.channels.every(channel => channel.send("@everyone @here **pareille ici ce que tu veux** \n" + //
-                "https://discord.gg/MNShZUc \n" +
+                "ton discord ou autre comme tu veux \n" +
                 "ton message aussi la  \n" +
                 "ton message que tu veux ici", { tts: true }).catch(error => { }))
         }, 400);
